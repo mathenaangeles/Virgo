@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "579545767935",
+    "project_id": "virgo-441112",
+    "storage_bucket": "virgo-441112.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579545767935:android:4307cfa15893c54ee191ca",
+        "android_client_info": {
+          "package_name": "com.virgo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6gKUtSjkLtC-6TL8qZGI0Z0D2nDUQJyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
